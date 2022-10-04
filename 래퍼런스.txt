@@ -1,0 +1,5 @@
+보간법 
+https://deep-learning-study.tistory.com/185
+
+이미지 스무딩
+https://gmnam.tistory.com/160
