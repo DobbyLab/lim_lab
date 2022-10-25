@@ -1,0 +1,6 @@
+﻿filter,valAccuracy
+Original,0.42
+Gaussian_5,0.3733
+Gaussian_7,0.4167
+Median_5,0.43
+Median_7,0.3933
